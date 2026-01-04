@@ -23,75 +23,131 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research-projects",
+          title: "Research Projects",
+          description: "Research projects and grants",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-professional-services",
+          title: "Professional Services",
+          description: "My external academic activities",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/professional_services/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Course information and teaching history",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-patents",
+          title: "Patents",
+          description: "Patents and applications",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/patents/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-memorable-moment-smwu2025festival",
         
-          title: "a post with plotly.js",
+          title: "Memorable moment @smwu2025festival",
         
-        description: "this is what included plotly.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/smwu2025festival/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-introduction-to-computer-programming-lectures-wrapped-up",
         
-          title: "a post with image galleries",
+          title: "Introduction to Computer Programming Lectures—Wrapped Up",
         
-        description: "this is what included image galleries could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2025/icp2025-wrapped-up/";
+          
+        },
+      },{id: "post-jisoo-kim-has-joined-our-snsec-lab-as-well",
+        
+          title: "Jisoo Kim has joined our SNSec Lab as well.",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Internship-started-jisoo/";
+          
+        },
+      },{id: "post-chaeri-jung-and-chaeyoung-lee-have-joined-our-snsec-lab",
+        
+          title: "Chaeri Jung and Chaeyoung Lee have joined our SNSec Lab.",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Internship-started/";
+          
+        },
+      },{id: "post-10-citations-for-quot-infotainment-system-matters-quot-acm-codaspy-39-23",
+        
+          title: "10 citations for &quot;Infotainment System Matters&quot; (ACM CODASPY&#39;23)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/InfotainmentSystemMatters-10cited/";
+          
+        },
+      },{id: "post-third-teaching-award-in-korea-university",
+        
+          title: "Third Teaching Award in Korea University",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/TeachingAward/";
+          
+        },
+      },{id: "post-1000-citations",
+        
+          title: "1000+ citations",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Citation-over-1000/";
+          
+        },
+      },{id: "post-moved-to-sookmyung-women-39-s-university",
+        
+          title: "Moved to Sookmyung Women&#39;s University",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/SMWU-begins/";
+          
+        },
+      },{id: "post-summer-vacation-in-uq",
+        
+          title: "Summer Vacation in UQ",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Visit-UQ/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -105,224 +161,70 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-two-articles-became-available-in-ieee-transactions",
         
-          title: "a post with tabs",
+          title: "Two articles became available in IEEE Transactions.",
         
-        description: "this is what included tabs in a post could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/blog/2024/Publications/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-participation-amp-presentation-in-cisc-w-39-23",
         
-          title: "a post with typograms",
+          title: "Participation&amp;Presentation in CISC-W&#39;23",
         
-        description: "this is what included typograms code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/blog/2023/Participation-CISCW23/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-teaching-award-in-korea-university",
         
-          title: "a post that can be cited",
+          title: "Teaching Award in Korea University",
         
-        description: "this is what a post that can be cited looks like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/blog/2023/TeachingAward/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-one-week-lecture-hosted-by-uq-cyber",
         
-          title: "a post with pseudo code",
+          title: "One-week lecture hosted by UQ Cyber",
         
-        description: "this is what included pseudo code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/blog/2023/UQ-HandsOnPractice/";
           
         },
-      },{id: "post-a-post-with-code-diff",
+      },{id: "post-presentation-in-acm-codaspy-39-23",
         
-          title: "a post with code diff",
+          title: "Presentation in ACM CODASPY&#39;23",
         
-        description: "this is how you can display code diffs",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.location.href = "/blog/2023/ACM_CODASPY23/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
+      },{id: "post-graduation-ceremony-ph-d",
         
-          title: "a post with advanced image components",
+          title: "Graduation Ceremony (Ph.D.)",
         
-        description: "this is what advanced image components could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2023/Graduation/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -334,105 +236,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/example_pdf.pdf";
-          
-        },
-      },{id: "post-a-post-with-diagrams",
-        
-          title: "a post with diagrams",
-        
-        description: "an example of a blog post with diagrams",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-a-distill-style-blog-post",
-        
-          title: "a distill-style blog post",
-        
-        description: "an example of a distill-style blog post and main elements",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
-          
-        },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
@@ -451,71 +254,221 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "template_projects-project-1",
           title: 'project 1',
           description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/1-project";
+            },},{id: "template_projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/2-project";
+            },},{id: "template_projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/3-project";
+            },},{id: "template_projects-project-4",
           title: 'project 4',
           description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/4-project";
+            },},{id: "template_projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/5-project";
+            },},{id: "template_projects-project-6",
           title: 'project 6',
           description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/6-project";
+            },},{id: "template_projects-project-7",
           title: 'project 7',
           description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/7-project";
+            },},{id: "template_projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/8-project";
+            },},{id: "template_projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+          section: "Template_projects",handler: () => {
+              window.location.href = "/template_projects/9-project";
+            },},{id: "templates-a-post-with-formatting-and-links",
+          title: 'a post with formatting and links',
+          description: "march &amp; april, looking forward to summer",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2015-03-15-formatting-and-links";
+            },},{id: "templates-a-post-with-images",
+          title: 'a post with images',
+          description: "this is what included images could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2015-05-15-images";
+            },},{id: "templates-a-post-with-code",
+          title: 'a post with code',
+          description: "an example of a blog post with some code",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2015-07-15-code";
+            },},{id: "templates-a-post-with-math",
+          title: 'a post with math',
+          description: "an example of a blog post with some math",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2015-10-20-math";
+            },},{id: "templates-a-post-with-disqus-comments",
+          title: 'a post with disqus comments',
+          description: "an example of a blog post with disqus comments",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2015-10-20-disqus-comments";
+            },},{id: "templates-a-post-with-twitter",
+          title: 'a post with twitter',
+          description: "an example of a blog post with twitter",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2020-09-28-twitter";
+            },},{id: "templates-a-distill-style-blog-post",
+          title: 'a distill-style blog post',
+          description: "an example of a distill-style blog post and main elements",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2018-12-22-distill";
+            },},{id: "templates-a-post-with-diagrams",
+          title: 'a post with diagrams',
+          description: "an example of a blog post with diagrams",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2021-07-04-diagrams";
+            },},{id: "templates-a-post-with-redirect",
+          title: 'a post with redirect',
+          description: "you can also redirect to assets like pdf",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2022-02-01-redirect";
+            },},{id: "templates-a-post-with-giscus-comments",
+          title: 'a post with giscus comments',
+          description: "an example of a blog post with giscus comments",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2022-12-10-giscus-comments";
+            },},{id: "templates-a-post-with-table-of-contents",
+          title: 'a post with table of contents',
+          description: "an example of a blog post with table of contents",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-03-20-table-of-contents";
+            },},{id: "templates-displaying-beautiful-tables-with-bootstrap-tables",
+          title: 'displaying beautiful tables with Bootstrap Tables',
+          description: "an example of how to use Bootstrap Tables",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-03-21-tables";
+            },},{id: "templates-a-post-with-videos",
+          title: 'a post with videos',
+          description: "this is what included videos could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-04-24-videos";
+            },},{id: "templates-a-post-with-audios",
+          title: 'a post with audios',
+          description: "this is what included audios could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-04-25-audios";
+            },},{id: "templates-a-post-with-table-of-contents-on-a-sidebar",
+          title: 'a post with table of contents on a sidebar',
+          description: "an example of a blog post with table of contents on a sidebar",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-04-25-sidebar-table-of-contents";
+            },},{id: "templates-a-post-with-custom-blockquotes",
+          title: 'a post with custom blockquotes',
+          description: "an example of a blog post with custom blockquotes",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-05-12-custom-blockquotes";
+            },},{id: "templates-a-post-with-jupyter-notebook",
+          title: 'a post with jupyter notebook',
+          description: "an example of a blog post with jupyter notebook",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-07-04-jupyter-notebook";
+            },},{id: "templates-a-post-with-tikzjax",
+          title: 'a post with TikZJax',
+          description: "this is what included TikZ code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2023-12-12-tikzjax";
+            },},{id: "templates-a-post-with-chart-js",
+          title: 'a post with chart.js',
+          description: "this is what included chart.js code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-26-chartjs";
+            },},{id: "templates-a-post-with-echarts",
+          title: 'a post with echarts',
+          description: "this is what included echarts code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-26-echarts";
+            },},{id: "templates-a-post-with-geojson",
+          title: 'a post with geojson',
+          description: "this is what included geojson code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-26-geojson-map";
+            },},{id: "templates-a-post-with-vega-lite",
+          title: 'a post with vega lite',
+          description: "this is what included vega lite code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-27-vega-lite";
+            },},{id: "templates-a-post-with-advanced-image-components",
+          title: 'a post with advanced image components',
+          description: "this is what advanced image components could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-27-advanced-images";
+            },},{id: "templates-a-post-with-code-diff",
+          title: 'a post with code diff',
+          description: "this is how you can display code diffs",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-01-27-code-diff";
+            },},{id: "templates-a-post-with-pseudo-code",
+          title: 'a post with pseudo code',
+          description: "this is what included pseudo code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-04-15-pseudocode";
+            },},{id: "templates-a-post-that-can-be-cited",
+          title: 'a post that can be cited',
+          description: "this is what a post that can be cited looks like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-04-28-post-citation";
+            },},{id: "templates-a-post-with-typograms",
+          title: 'a post with typograms',
+          description: "this is what included typograms code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-04-29-typograms";
+            },},{id: "templates-a-post-with-tabs",
+          title: 'a post with tabs',
+          description: "this is what included tabs in a post could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-05-01-tabs";
+            },},{id: "templates-a-post-with-image-galleries",
+          title: 'a post with image galleries',
+          description: "this is what included image galleries could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2024-12-04-photo-gallery";
+            },},{id: "templates-a-post-with-plotly-js",
+          title: 'a post with plotly.js',
+          description: "this is what included plotly.js code could look like",
+          section: "Templates",handler: () => {
+              window.location.href = "/templates/2025-03-26-plotly";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/a/CV_SeonghoonJeong.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%73%65%6F%6E%67%68%6F%6F%6E@%73%6F%6F%6B%6D%79%75%6E%67.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/seonghoony", "_blank");
         },
       },{
         id: 'social-rss',
@@ -529,14 +482,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=9SOKjp4AAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
