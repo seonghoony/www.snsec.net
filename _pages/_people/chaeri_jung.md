@@ -2,7 +2,7 @@
 
 <i class="fa-solid fa-envelope"></i> chaerry502 [a.t.] snsec.net &nbsp;|&nbsp; <i class="ai ai-orcid"></i> [0009-0006-0247-5167](https://orcid.org/0009-0006-0247-5167)
 
-[Personal website](https://jchaerry.github.io/)
+[Personal website](https://jchaerry.github.io/) &nbsp;|&nbsp; <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=KEQFoAMAAAAJ)
 
 #### Interests
 * **Core Tech**: Deep Learning, Self-Supervised Learning
