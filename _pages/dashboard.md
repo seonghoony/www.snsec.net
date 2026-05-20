@@ -21,7 +21,7 @@ The source code for the custom python judge system is available on [GitHub](http
 ## GPU Infrastructure
 
 Hosts `*.infra.snsec.net` are accessible within the SNSec Lab intranet.
-<iframe src="http://grafana.snsec.net/public-dashboards/ebbfe189bc7b44f78f052f7a309cbb44" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://grafana.snsec.net/public-dashboards/ebbfe189bc7b44f78f052f7a309cbb44" width="800" height="600" frameborder="0"></iframe>
 <br>
 
 ## Schedule
