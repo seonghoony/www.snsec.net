@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second submission, at the end of the day on Sunday, AoE
+title: Second submission with Chaeri and Chaeyoung
 
 images:
   - /assets/img/2026-05-31-second-conference-submission/1.jpeg
