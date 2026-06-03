@@ -2,7 +2,7 @@
 
 <i class="fa-solid fa-envelope"></i> amy8985 [a.t.] snsec.net &nbsp;|&nbsp; <i class="ai ai-orcid"></i> [0009-0006-8907-6504](https://orcid.org/0009-0006-8907-6504)
 
-<a href="https://scholar.google.com/citations?user=O9-EG6oAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+[Personal website](https://chaeyoung.net/) &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=O9-EG6oAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
 #### Interests
 * **Core Tech**: Deep Learning, NLP
