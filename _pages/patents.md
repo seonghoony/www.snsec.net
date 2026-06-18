@@ -7,7 +7,7 @@ nav: false
 nav_order: 2
 ---
 
-**Summary.** I have a total of 10 distinct patent items, with 6 patents registered in Korea and 3 registered in the US; several more applications are filed both internationally and at home.
+**Summary.** I have a total of 11 distinct patent items, with 6 patents registered in Korea and 3 registered in the US; several more applications are filed both internationally and at home.
 
 Apparatus and Method for Detecting Vehicle Intrusion
 - Korea, **Reg. No. 10-1853676**, Apr 2018
@@ -51,3 +51,7 @@ Method for detecting anomalies of lidar point cloud data and related device
 Intrusion Detection Method and Apparatus
 - PCT/CN2021/114574, Aug 2021
 - US App. 18/587,159, Feb 2024
+
+Model Pre-training Technology and Classification Method for Robust DGA-Generated Domain Detection
+- **Inventors:** Seonghoon Jeong, Chaeyoung Lee, Chaeri Jung
+- Korea, App. No. 10-2026-0092483, 2026
