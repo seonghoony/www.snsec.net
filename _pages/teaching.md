@@ -9,6 +9,9 @@ nav_order: 4
 
 ## Instructor
 ### Sookmyung Women's University
+- Basic Hacking Practice, Fall 2026
+  - *newly established major elective (3rd year), SEED Labs hands-on offensive security*
+- 21105590-001: System Security, Fall 2026
 - 21102524-001: Introduction to Computer Programming, Spring 2026 
   - *exclusive section for AI Engineering freshmen of 2026*
 - 21102524-003: Introduction to Computer Programming, Spring 2026
