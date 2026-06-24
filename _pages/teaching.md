@@ -14,7 +14,9 @@ nav_order: 4
 - 21105590-001: System Security, Fall 2026
 - 21102524-001: Introduction to Computer Programming, Spring 2026 
   - *exclusive section for AI Engineering freshmen of 2026*
+  - [Course reviews from students](/teaching/course-reviews/21102524-001-ICP-Spring26/)
 - 21102524-003: Introduction to Computer Programming, Spring 2026
+  - [Course reviews from students](/teaching/course-reviews/21102524-003-ICP-Spring26/)
 - 21105590-001: System Security, Fall 2025
   - 4.92/5.00 [Course reviews from students](/teaching/course-reviews/21105590-001-SysSec-Fall25/)
 - 21100720-003: Algorithms, Fall 2025
