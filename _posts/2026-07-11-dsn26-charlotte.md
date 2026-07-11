@@ -21,7 +21,7 @@ We landed in Charlotte on June 19 and spent the weekend getting adjusted to the 
 The highlight came on June 24: Chaeri stood at the podium and delivered her first oral presentation at an international conference, walking the audience through DRIFT — the work she and Chaeyoung built together as equal first authors. As an advisor, watching the two of them carry this paper all the way from the first draft to the DSN stage was a genuinely proud moment.
 
 <div class="text-center mt-3 mb-3">
-  <img src="/assets/img/2026-07-11-dsn26-charlotte/chaeri-presenting-drift.jpg" alt="Chaeri Jung presenting DRIFT at IEEE/IFIP DSN 2026" style="max-width:100%; border-radius:8px; box-shadow:0 1px 5px rgba(0,0,0,.25);">
+  <img src="/assets/img/2026-07-11-dsn26-charlotte/chaeri-presenting-drift.jpg" alt="Chaeri Jung presenting DRIFT at IEEE/IFIP DSN 2026" data-zoomable style="max-width:100%; border-radius:8px; box-shadow:0 1px 5px rgba(0,0,0,.25);">
   <div class="mt-1" style="font-size:0.9em; opacity:0.75;">Chaeri presenting DRIFT on June 24.</div>
 </div>
 
@@ -31,29 +31,8 @@ Most of the photos were taken by Chaeyoung. For more of the journey, see [Chaeri
 
 <div class="card-columns">
     {% for img in page.images %}
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
-        <img class="card-img-top" src="{{ img }}" />
+    <div class="card">
+        <img class="card-img-top" src="{{ img }}" data-zoomable />
     </div>
     {% endfor %}
 </div>
-
-<div class="modal fade" id="exampleModal">
-  <div class="modal-dialog modal-lg modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
-        <img class="modal-img w-100" />
-      </div>
-    </div>
-  </div>
-</div>
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    $('#exampleModal').on('show.bs.modal', function (event) {
-      var button = $(event.relatedTarget)
-      var img = button.data('img')
-      var modal = $(this)
-      modal.find('.modal-img').attr('src', img)
-    })
-  })
-</script>
