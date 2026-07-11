@@ -5,6 +5,7 @@ date: 2026-07-11 22:50:00+09:00
 description: A business trip to the US for IEEE/IFIP DSN 2026, where Chaeri Jung presented DRIFT on stage for the first time.
 tags: conference
 images:
+  - /assets/img/2026-07-11-dsn26-charlotte/snsec-at-dsn26.jpg
   - /assets/img/2026-07-11-dsn26-charlotte/uptown-charlotte.jpg
   - /assets/img/2026-07-11-dsn26-charlotte/dsn26-badges.jpg
   - /assets/img/2026-07-11-dsn26-charlotte/dsn26-opening-stats.jpg
