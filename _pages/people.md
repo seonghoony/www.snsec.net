@@ -30,7 +30,7 @@ undergraduate_students:
     content: _people/semin_sohn.md
     image_circular: false
   - align: right
-    image: hyekyo_jung.png
+    image: hyekyo_jung.jpg
     content: _people/hyekyo_jung.md
     image_curcular: false 
 ---
