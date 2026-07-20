@@ -21,6 +21,22 @@ in ITU-T SG17 (Security)/WP2/Q13 (Intelligent Transportation Systems)
 
 Serving as a **Program Chair** for [the Workshop on AI Dependability (AID'25), co-located with IEEE PRDC 2025](https://aid2025-workshop.github.io/). The workshop focuses on AI safety, robustness, and trustworthiness in critical systems.
 
+### IEEE PRDC 2026, Publicity Co-chair
+
+Serving as a Publicity Co-chair for the 31st IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2026), coordinating community outreach and call-for-papers promotion.
+
+### Conference on Information Security and Cryptography Summer 2026
+
+A Program committee for the domestic conference "한국정보보호학회 2026년 하계학술대회 (CISC-S'26)" (Busan BEXCO, 7--8 May 2026).
+
+### Korea Digital Forensics Society Summer Conference 2026
+
+A Program committee member (paper reviewer) for the domestic conference "2026년 (사)한국디지털포렌식학회 하계학술대회" (25 Jun 2026).
+
+### IEEE ICTC 2026, Technical Program Committee
+
+A Technical Program Committee (TPC) member for the International Conference on ICT Convergence (ICTC 2026).
+
 ### Conference on Information Security and Cryptography Winter 2025
 A Program committee for the domestion conference ["한국정보보호학회 2025년 동계학술대회 (CISC-W'25)"](https://di0zxmb8pwajl.cloudfront.net/kiisc/conference/ciscs2025/ciscw2025_programbook_v6.pdf).
 
@@ -39,6 +55,20 @@ Worked for:
 **Evaluation.** proof of concept exploit codes submitted by 102 researchers
 
 > I am grateful to [Han Eol Lee](https://ocslab.hksecurity.net/people/alumni#h.e6zyi287f7yo) and [Dong Young Kim](https://ocslab.hksecurity.net/people/alumni#h.hneqmuev9owl), who dedicated a significant amount of time preparing for the event with me.
+
+## Invited talks
+
+### Korea Multimedia Society 2025 Fall Conference
+
+Invited lecture at 한국멀티미디어학회 2025 추계학술대회 (15 Nov 2025).
+
+### Korea--Japan Database Workshop (KJDB 2025)
+
+Invited research presentation, "MetaFTT: Meta-Learning-Based FT-Transformer for Few-Shot IoT Intrusion Detection" (12--13 Dec 2025).
+
+### NetSec-KR 2025
+
+Presenter in Session 22 (Mobility Security), 제31회 정보통신망 정보보호 컨퍼런스 (NetSec-KR 2025), COEX (17--18 Apr 2025).
 
 ## Maintainer of the in-vehicle intrusion datasets
 ### 1. CAN Dataset for intrusion detection (OTIDS)
@@ -69,3 +99,6 @@ Impact: Information Disclosure, Denial of Service
 - IEEE Transactions on Vehicular Technology
 - Elsevier Internet of Things
 - SAE International Journal
+- Springer Nature Scientific Reports
+- IEEE Conference on Future Machine Learning and Data Science (FMLDS 2026)
+- Korea Multimedia Society MITA 2025
