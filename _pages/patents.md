@@ -7,7 +7,7 @@ nav: false
 nav_order: 2
 ---
 
-**Summary.** I have a total of 11 distinct patent items, with 6 patents registered in Korea and 3 registered in the US; several more applications are filed both internationally and at home.
+**Summary.** I have a total of 11 distinct patent items, with 6 patents registered in Korea and 4 registered in the US; several more applications are filed both internationally and at home.
 
 Apparatus and Method for Detecting Vehicle Intrusion
 - Korea, **Reg. No. 10-1853676**, Apr 2018
@@ -42,7 +42,7 @@ Generative Adversarial Network Model and Training Method to Generate Message ID 
 Lightweight Real-Time Anomaly Detection Method Using CAN Message Analysis and Neural Network Model
 - Korea, App. No. 10-2021-0174328, Dec 2021
 - PCT/KR2022/017082, Nov 2022
-- US, App. No. 18/715,263, May 2024 (Allowed, Apr 2026)
+- US, **Reg. No. 12,665,916**, Jun 2026
 
 Method for detecting anomalies of lidar point cloud data and related device
 - PCT/CN2021/114368, Aug 2021
