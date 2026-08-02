@@ -11,7 +11,8 @@
 * **Emerging Interests**: Data Poisoning, Machine Unlearning
 
 #### Education
-* Undergraduate Student, Division of Artificial Intelligence Engineering (minoring in Big Data), Sookmyung Women's University, 2023--Current
+* M.S. Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, Sep 2026--Current
+* B.S., Division of Artificial Intelligence Engineering (minoring in Big Data), Sookmyung Women's University, 2023--Aug 2026
 
 #### Previous Affiliation & Activities
 * **DevOps Engineer**, <a href="https://www.snorose.com/"><img src="/assets/img/snorose_logo.svg" style="height: 1.2em; vertical-align: text-bottom; margin-right: 0.1em;"></a> (a Sookmyung Women's University Community Platform)
