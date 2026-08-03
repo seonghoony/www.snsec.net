@@ -10,7 +10,7 @@
 * **Emerging Interests**: LLM Security
 
 #### Education
-* Undergraduate Student, Department of Data Science, Sookmyung Women's University, 2023--Current
+* Undergraduate Student, Department of Data Science, Sookmyung Women's University, Mar 2023--Current
 
 #### Activities
 * **Web Hacking Academic Director** & Member of <img src="/assets/img/symbol_siss.jpg" style="height: 1.3em; vertical-align: text-bottom; margin-right: 0.1em;"> (Sookmyung Information Security Study)

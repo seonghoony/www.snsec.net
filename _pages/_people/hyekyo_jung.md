@@ -7,4 +7,4 @@
 * **Security Exploration**: Systems & Low-Level Security
 
 #### Education
-* Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2024--Current
+* Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, Mar 2024--Current

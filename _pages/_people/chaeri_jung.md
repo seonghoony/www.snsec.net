@@ -10,7 +10,7 @@
 * **Future Interests**: Adversarial Machine Learning, Concept Drift Adaptation
 
 #### Education
-* Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, 2023--Current
+* Undergraduate Student, Division of Artificial Intelligence Engineering, Sookmyung Women's University, Mar 2023--Current
 * Double Major in Big Data
 
 #### GitHub Activity

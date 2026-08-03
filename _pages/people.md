@@ -37,4 +37,4 @@ undergraduate_students:
 
 #### Past Members
 
-* Semin Sohn (손세민), 2026.03--2026.08
+* Semin Sohn (손세민), Mar 2026--Jul 2026
