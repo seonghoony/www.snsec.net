@@ -4,6 +4,9 @@
 
 [Personal website](https://jchaerry.github.io/) &nbsp;|&nbsp; <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=KEQFoAMAAAAJ)
 
+#### SNSec Lab
+* Apr 2025--Current
+
 #### Interests
 * **Core Tech**: Deep Learning, Self-Supervised Learning
 * **Security Focus**: Anomaly Detection, Intrusion Detection

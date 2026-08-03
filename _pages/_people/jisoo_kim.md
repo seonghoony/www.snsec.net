@@ -4,6 +4,9 @@
 
 [Personal website](https://www.notion.so/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f)
 
+#### SNSec Lab
+* May 2025--Current
+
 #### Interests
 * **Core Research**: Anomaly Detection, Data-driven Security
 * **Security Applications**: Bot Detection, Intrusion Detection, Network Security

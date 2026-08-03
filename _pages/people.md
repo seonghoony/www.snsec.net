@@ -37,4 +37,4 @@ undergraduate_students:
 
 #### Past Members
 
-* Semin Sohn (손세민), Mar 2026--Jul 2026
+* Semin Sohn (손세민), SNSec Lab Mar 2026--Jul 2026

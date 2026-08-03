@@ -2,6 +2,9 @@
 
 <i class="fa-solid fa-envelope"></i> pradahk [a.t.] snsec.net
 
+#### SNSec Lab
+* Jul 2026--Current
+
 #### Interests
 * **Core Interests**: Operating System
 * **Security Exploration**: Systems & Low-Level Security

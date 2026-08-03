@@ -4,6 +4,9 @@
 
 [Personal website](https://chaeyoung.net/) &nbsp;|&nbsp; <a href="https://scholar.google.com/citations?user=O9-EG6oAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 
+#### SNSec Lab
+* Apr 2025--Current
+
 #### Interests
 * **Core Tech**: Deep Learning, NLP
 * **Security**: Data-driven Security, Intrusion Detection
