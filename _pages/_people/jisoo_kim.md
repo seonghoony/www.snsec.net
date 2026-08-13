@@ -16,7 +16,7 @@
 * Undergraduate Student, Department of Data Science, Sookmyung Women's University, Mar 2023--Current
 
 #### Activities
-* **Web Hacking Academic Director** & Member of <img src="/assets/img/symbol_siss.jpg" style="height: 1.3em; vertical-align: text-bottom; margin-right: 0.1em;"> (Sookmyung Information Security Study)
+* **Web Hacking Academic Lead** & Member of <img src="/assets/img/symbol_siss.jpg" style="height: 1.3em; vertical-align: text-bottom; margin-right: 0.1em;"> (Sookmyung Information Security Study)
 * **Featured in Sookmyung Women's University Official Brand Video (2026)**
   <a href="https://www.youtube.com/watch?v=UH0QcNP1qxc">
     <img src="/assets/img/jisoo_yt_thumbnail.jpg" alt="Sookmyung Brand Video 2026" style="width: 150px; display: block; margin-top: 10px;">
