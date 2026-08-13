@@ -2,7 +2,7 @@
 
 <i class="fa-solid fa-envelope"></i> sallysooo [a.t.] snsec.net
 
-[Personal website](https://www.notion.so/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f)
+[Personal website](https://sallysooo.com)
 
 #### SNSec Lab
 * May 2025--Current
