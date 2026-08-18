@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KR Patent Allowed — SDN-based Intrusion Response for In-vehicle Networks
-date: 2026-05-20 10:00:00+09:00
+date: 2026-08-18 22:39:00+09:00
 inline: true
 related_posts: false
 ---
