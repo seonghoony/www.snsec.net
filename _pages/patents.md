@@ -21,7 +21,7 @@ Device for Verifying Status and Detecting Anomaly of Vehicle and System Having t
 
 Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and System using the same
 - PCT/KR2020/010141, Jul 2020
-- Korea, App. No. 10-2020-0095518, Jul 2020
+- Korea, App. No. 10-2020-0095518, Jul 2020 (Allowed, May 2026)
 - US, App. No. 17/631,836, Jan 2022
 
 Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and System using the same
