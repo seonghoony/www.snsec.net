@@ -6,10 +6,10 @@ subtitle: Division of Artificial Intelligence Engineering, <a href='https://www.
 
 profile:
   align: right
-  image: SNSecLab_2026.JPG
+  image: IMG_4196.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>SNSec Lab. members (Feb 27, 2026)</p>
+    <p>SNSec Lab. members (Aug 21, 2026)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
